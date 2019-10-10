@@ -1,21 +1,15 @@
-# xie
+# Vue面试题
 
-> A Vue.js project
+## UI
 
-## Build Setup
+两个页面，具体看“UI要求”文件夹。
 
-``` bash
-# install dependencies
-npm install
+## 实现
 
-# serve with hot reload at localhost:8080
-npm run dev
+在塞钱页面输入金额后，点击“塞钱进红包”按钮，众筹红包中的“我塞的钱”和“目前共筹得”金额会相应的改变。
 
-# build for production with minification
-npm run build
+具体实现需要使用到Vue-cli、Vuex、vue-router。
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+## 注意事项
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+请以iPhone6/7/8设备屏幕尺寸启动此项目。
